@@ -1,0 +1,15 @@
+{
+    "name": "lcerq/prova_composer",
+    "description": "prova composer",
+    "type": "library",
+    "require": {
+        "nnnick/chartjs": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "lorenzocrq",
+            "email": "l.cerqua@wematica.it"
+        }
+    ],
+    "minimum-stability": "dev"
+}
