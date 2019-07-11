@@ -1,5 +1,7 @@
 <?php
 
+namespace myClass;
+
 class Hclass{
 
     private $variabile;
